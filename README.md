@@ -368,8 +368,6 @@ docker run --rm -v "$PWD:/app" inflation-forecast data-audit
 
 The original notebooks and Stata workflow are preserved under `notebooks/` for traceability and comparison with the research phase of the project.
 
-Production usage should go through the packaged CLI, the Streamlit arena, or the HTTP API.
-
 ## License
 
 Released under the MIT License.
